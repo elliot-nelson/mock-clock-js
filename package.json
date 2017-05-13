@@ -1,0 +1,20 @@
+{
+  "name": "mock-clock",
+  "version": "1.0.0",
+  "description": "An asynchronous mock clock library for javascript unit testing",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/elliot-nelson/mock-clock-js.git"
+  },
+  "scripts": {
+    "test": "jasmine",
+    "coverage": "istanbul cover jasmine"
+  },
+  "author": "Elliot Nelson",
+  "license": "MIT",
+  "devDependencies": {
+    "istanbul": "^0.4.5",
+    "jasmine": "^2.6.0"
+  }
+}
