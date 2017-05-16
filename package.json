@@ -1,6 +1,6 @@
 {
   "name": "mock-clock",
-  "version": "0.7.0",
+  "version": "0.7.1",
   "description": "An asynchronous mock clock library for javascript unit testing",
   "main": "index.js",
   "repository": {
